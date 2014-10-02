@@ -1,8 +1,6 @@
 toy-ai-fetch
 ============
-
-toy : fetching ArchiveIt json
-
+```
       	       {
                          "entityDef" => "CuratedPage",
                   "organizationName" => "New York University",
@@ -398,3 +396,4 @@ toy : fetching ArchiveIt json
 2.0.0-p481 :047 > 
 
 
+```
