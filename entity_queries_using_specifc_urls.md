@@ -2,8 +2,7 @@
 
 ##### this file contains the JSON from url-specific queries
 ##### e.g., ```https://archive-it.org/collections/4049.json?q=http%3A%2F%2FLouisKarchin.com%2F&show=ArchivedPages```
-##### *N.B.* the output below is not pure JSON. It contains log output and delimiters that were included 
-#####        to record provenance and make the JSON more readable.  
+##### *N.B.* the output below is not pure JSON. It contains log output and delimiters that were included to record provenance and make the JSON more readable.  
 
 
 ```

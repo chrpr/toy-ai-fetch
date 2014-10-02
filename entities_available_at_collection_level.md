@@ -2,8 +2,7 @@
 
 ##### this file contains the JSON for the entities returned in a collection-level ArchiveIt query
 ##### e.g., ```https://archive-it.org/collections/4049.json```
-##### *N.B.* the output below is not pure JSON. It contains log output and delimiters that were included 
-#####        to record provenance and make the JSON more readable.  
+##### *N.B.* the output below is not pure JSON. It contains log output and delimiters that were included to record provenance and make the JSON more readable.  
 
 ```
 I, [2014-10-02T09:48:11.138719 #61022]  INFO -- : get https://archive-it.org/collections/4049.json
