@@ -1,5 +1,7 @@
-toy-ai-fetch
-============
+## contents
+
+##### this file contains code and JSON snippets used when exploring the ArchiveIt API using ```irb```
+
 ```
       	       {
                          "entityDef" => "CuratedPage",
