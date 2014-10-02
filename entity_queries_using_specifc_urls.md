@@ -19,6 +19,8 @@ content-language: "en-US"
 connection: "close"
 transfer-encoding: "chunked"
 ======================== SELECTED URL QUERIES ============================
+```
+```
 I, [2014-10-02T13:23:25.759306 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2FLouisKarchin.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:25.759554 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
 I, [2014-10-02T13:23:26.194213 #70599]  INFO -- Status: 200
@@ -263,6 +265,8 @@ transfer-encoding: "chunked"
                          "q" => "http://LouisKarchin.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:26.201617 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2FMrJoeIconis.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:26.201868 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -508,6 +512,8 @@ transfer-encoding: "chunked"
                          "q" => "http://MrJoeIconis.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:26.726352 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2FWendyLuck.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:26.726609 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -717,6 +723,8 @@ transfer-encoding: "chunked"
                          "q" => "http://WendyLuck.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:27.269310 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Faaroncassidy.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:27.269525 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -962,6 +970,8 @@ transfer-encoding: "chunked"
                          "q" => "http://aaroncassidy.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:27.709261 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Faaronsiegel.net%2F&show=ArchivedPages
 D, [2014-10-02T13:23:27.709530 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -1207,6 +1217,8 @@ transfer-encoding: "chunked"
                          "q" => "http://aaronsiegel.net/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:28.173709 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fangelicanegron.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:28.174087 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -1452,6 +1464,8 @@ transfer-encoding: "chunked"
                          "q" => "http://angelicanegron.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:28.631192 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fbenhackbarth.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:28.631813 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -1697,6 +1711,8 @@ transfer-encoding: "chunked"
                          "q" => "http://benhackbarth.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:29.079569 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fcarlmaguire.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:29.079817 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -1942,6 +1958,8 @@ transfer-encoding: "chunked"
                          "q" => "http://carlmaguire.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:29.525562 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fcharlesames.net%2F&show=ArchivedPages
 D, [2014-10-02T13:23:29.525818 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -2187,6 +2205,8 @@ transfer-encoding: "chunked"
                          "q" => "http://charlesames.net/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:29.992639 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fcharminghostess.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:29.992912 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -2432,6 +2452,8 @@ transfer-encoding: "chunked"
                          "q" => "http://charminghostess.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:30.438148 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fchristophercerrone.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:30.438358 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -2711,6 +2733,8 @@ transfer-encoding: "chunked"
                          "q" => "http://christophercerrone.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:30.928329 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fchristopherchandlermusic.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:30.928561 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -2956,6 +2980,8 @@ transfer-encoding: "chunked"
                          "q" => "http://christopherchandlermusic.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:31.394960 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fchristophertrapani.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:31.395159 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -3201,6 +3227,8 @@ transfer-encoding: "chunked"
                          "q" => "http://christophertrapani.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:31.859296 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fcolinjacobsen.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:31.859608 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -3446,6 +3474,8 @@ transfer-encoding: "chunked"
                          "q" => "http://colinjacobsen.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:32.328667 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fconradwinslow.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:32.328878 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -3691,6 +3721,8 @@ transfer-encoding: "chunked"
                          "q" => "http://conradwinslow.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:32.958847 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fdamonholzborn.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:32.959097 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -3936,6 +3968,8 @@ transfer-encoding: "chunked"
                          "q" => "http://damonholzborn.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:33.418696 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fdanielgilliam.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:33.418949 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -4181,6 +4215,8 @@ transfer-encoding: "chunked"
                          "q" => "http://danielgilliam.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:33.859162 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fdavidlangmusic.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:33.859432 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -4426,6 +4462,8 @@ transfer-encoding: "chunked"
                          "q" => "http://davidlangmusic.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:34.317270 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fdosiamckay.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:34.317509 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -4671,6 +4709,8 @@ transfer-encoding: "chunked"
                          "q" => "http://dosiamckay.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:34.788122 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fdylanglatthorn.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:34.788496 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -4916,6 +4956,8 @@ transfer-encoding: "chunked"
                          "q" => "http://dylanglatthorn.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:35.227536 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fdylanmattingly.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:35.227780 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -5161,6 +5203,8 @@ transfer-encoding: "chunked"
                          "q" => "http://dylanmattingly.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:35.669078 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Felizabethalexander.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:35.669330 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -5406,6 +5450,8 @@ transfer-encoding: "chunked"
                          "q" => "http://elizabethalexander.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:36.175224 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fericlemmon.net%2F&show=ArchivedPages
 D, [2014-10-02T13:23:36.175469 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -5651,6 +5697,8 @@ transfer-encoding: "chunked"
                          "q" => "http://ericlemmon.net/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:36.607346 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fericshanfield.com&show=ArchivedPages
 D, [2014-10-02T13:23:36.607636 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -5896,6 +5944,8 @@ transfer-encoding: "chunked"
                          "q" => "http://ericshanfield.com"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:37.070793 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Ffhkern.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:37.071021 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -6141,6 +6191,8 @@ transfer-encoding: "chunked"
                          "q" => "http://fhkern.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:37.511564 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fflorentghys.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:37.511816 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -6420,6 +6472,8 @@ transfer-encoding: "chunked"
                          "q" => "http://florentghys.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:37.966485 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fguybarash.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:37.966688 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -6665,6 +6719,8 @@ transfer-encoding: "chunked"
                          "q" => "http://guybarash.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:38.416798 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fiandicke.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:38.417036 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -6875,6 +6931,8 @@ transfer-encoding: "chunked"
                          "q" => "http://iandicke.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:38.854034 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fjamesprimosch.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:38.854289 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -7084,6 +7142,8 @@ transfer-encoding: "chunked"
                          "q" => "http://jamesprimosch.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:39.312668 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fjoanarnaupamies.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:39.312891 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -7329,6 +7389,8 @@ transfer-encoding: "chunked"
                          "q" => "http://joanarnaupamies.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:39.767014 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fjobytalbot.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:39.767204 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -7574,6 +7636,8 @@ transfer-encoding: "chunked"
                          "q" => "http://jobytalbot.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:40.207482 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fjoelpuckett.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:40.207713 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -7853,6 +7917,8 @@ transfer-encoding: "chunked"
                          "q" => "http://joelpuckett.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:40.659242 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fjohn-cale.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:40.659616 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -8062,6 +8128,8 @@ transfer-encoding: "chunked"
                          "q" => "http://john-cale.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:41.112592 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fjohnkennedymusic.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:41.112836 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -8307,6 +8375,8 @@ transfer-encoding: "chunked"
                          "q" => "http://johnkennedymusic.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:41.568819 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fjudithshatin.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:41.569070 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -8552,6 +8622,8 @@ transfer-encoding: "chunked"
                          "q" => "http://judithshatin.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:42.011730 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fjuliawolfemusic.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:42.011978 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -8797,6 +8869,8 @@ transfer-encoding: "chunked"
                          "q" => "http://juliawolfemusic.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:42.459974 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fkalapierson.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:42.460229 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -9042,6 +9116,8 @@ transfer-encoding: "chunked"
                          "q" => "http://kalapierson.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:42.942958 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fkatthernandez.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:42.943194 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -9287,6 +9363,8 @@ transfer-encoding: "chunked"
                          "q" => "http://katthernandez.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:43.443248 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fkeithkirchoff.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:43.443493 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -9532,6 +9610,8 @@ transfer-encoding: "chunked"
                          "q" => "http://keithkirchoff.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:43.930966 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fkilesmith.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:43.931221 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -9811,6 +9891,8 @@ transfer-encoding: "chunked"
                          "q" => "http://kilesmith.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:44.596685 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fkitbraz.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:44.596916 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -10056,6 +10138,8 @@ transfer-encoding: "chunked"
                          "q" => "http://kitbraz.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:45.119545 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fktonline.net%2F&show=ArchivedPages
 D, [2014-10-02T13:23:45.119772 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -10301,6 +10385,8 @@ transfer-encoding: "chunked"
                          "q" => "http://ktonline.net/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:45.611299 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fmarcosbalter.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:45.611511 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -10546,6 +10632,8 @@ transfer-encoding: "chunked"
                          "q" => "http://marcosbalter.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:46.096168 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fmarkadamo.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:46.096418 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -10756,6 +10844,8 @@ transfer-encoding: "chunked"
                          "q" => "http://markadamo.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:46.589589 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fmatthewhough.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:46.589845 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -11001,6 +11091,8 @@ transfer-encoding: "chunked"
                          "q" => "http://matthewhough.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:47.106266 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fmichaelgordonmusic.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:47.106518 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -11246,6 +11338,8 @@ transfer-encoding: "chunked"
                          "q" => "http://michaelgordonmusic.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:47.597271 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fmichaelpattersoncomposer.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:47.597518 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -11491,6 +11585,8 @@ transfer-encoding: "chunked"
                          "q" => "http://michaelpattersoncomposer.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:48.143004 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fmikaelk.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:48.143239 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -11700,6 +11796,8 @@ transfer-encoding: "chunked"
                          "q" => "http://mikaelk.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:48.630676 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fmohammedfairouz.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:48.630863 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -11945,6 +12043,8 @@ transfer-encoding: "chunked"
                          "q" => "http://mohammedfairouz.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:49.111476 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fmyungsoo.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:49.111663 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -12190,6 +12290,8 @@ transfer-encoding: "chunked"
                          "q" => "http://myungsoo.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:49.562008 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fnicholasurie.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:49.562194 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -12399,6 +12501,8 @@ transfer-encoding: "chunked"
                          "q" => "http://nicholasurie.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:49.996823 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fnicomuhly.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:49.997003 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -12644,6 +12748,8 @@ transfer-encoding: "chunked"
                          "q" => "http://nicomuhly.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:50.489947 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fpauljbotelho.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:50.490336 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -12889,6 +12995,8 @@ transfer-encoding: "chunked"
                          "q" => "http://pauljbotelho.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:51.033570 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Frand.info%2F&show=ArchivedPages
 D, [2014-10-02T13:23:51.033823 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -13134,6 +13242,8 @@ transfer-encoding: "chunked"
                          "q" => "http://rand.info/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:51.675928 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Freloadsanear.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:51.676171 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -13413,6 +13523,8 @@ transfer-encoding: "chunked"
                          "q" => "http://reloadsanear.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:52.211617 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Froberthonstein.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:52.211862 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -13623,6 +13735,8 @@ transfer-encoding: "chunked"
                          "q" => "http://roberthonstein.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:52.693407 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fryancarter.org%2F&show=ArchivedPages
 D, [2014-10-02T13:23:52.693770 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -13868,6 +13982,8 @@ transfer-encoding: "chunked"
                          "q" => "http://ryancarter.org/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:53.246540 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fryanstreber.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:53.247055 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -14077,6 +14193,8 @@ transfer-encoding: "chunked"
                          "q" => "http://ryanstreber.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:53.734914 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fsarahkirklandsnider.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:53.735157 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -14322,6 +14440,8 @@ transfer-encoding: "chunked"
                          "q" => "http://sarahkirklandsnider.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:54.216742 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fscottwollschleger.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:54.216987 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -14567,6 +14687,8 @@ transfer-encoding: "chunked"
                          "q" => "http://scottwollschleger.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:54.731679 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fshawncrouchmusic.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:54.731920 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -14812,6 +14934,8 @@ transfer-encoding: "chunked"
                          "q" => "http://shawncrouchmusic.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:55.283002 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fsusieibarra.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:55.283234 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -15057,6 +15181,8 @@ transfer-encoding: "chunked"
                          "q" => "http://susieibarra.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:55.820946 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Ftarikoregan.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:55.821210 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -15267,6 +15393,8 @@ transfer-encoding: "chunked"
                          "q" => "http://tarikoregan.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:56.362983 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fthomasades.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:56.363203 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -15512,6 +15640,8 @@ transfer-encoding: "chunked"
                          "q" => "http://thomasades.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:56.819524 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.abbiebetinis.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:56.819789 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -15791,6 +15921,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.abbiebetinis.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:57.366157 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.acheungmusic.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:57.366419 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -16036,6 +16168,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.acheungmusic.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:57.866488 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.alexandragardner.net%2F&show=ArchivedPages
 D, [2014-10-02T13:23:57.866736 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -16281,6 +16415,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.alexandragardner.net/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:58.366134 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.alexshapiro.org%2F&show=ArchivedPages
 D, [2014-10-02T13:23:58.366396 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -16560,6 +16696,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.alexshapiro.org/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:58.901181 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.amydenio.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:58.901383 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -16839,6 +16977,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.amydenio.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:59.439892 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.andres.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:59.440088 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -17118,6 +17258,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.andres.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:23:59.976549 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.andrewmckennalee.com%2F&show=ArchivedPages
 D, [2014-10-02T13:23:59.976791 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -17363,6 +17505,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.andrewmckennalee.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:00.449864 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.andyakiho.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:00.450089 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -17642,6 +17786,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.andyakiho.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:00.963843 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.appletonjon.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:00.964072 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -17887,6 +18033,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.appletonjon.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:01.538078 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.armandobayolo.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:01.538344 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -18132,6 +18280,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.armandobayolo.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:02.300210 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.aroojaftabmusic.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:02.300461 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -18377,6 +18527,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.aroojaftabmusic.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:02.795575 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.augustareadthomas.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:02.795796 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -18656,6 +18808,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.augustareadthomas.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:03.315975 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.benneill.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:03.316195 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -18901,6 +19055,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.benneill.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:03.832289 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.bittova.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:03.832551 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -19146,6 +19302,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.bittova.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:04.336392 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.carlschimmel.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:04.336630 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -19391,6 +19549,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.carlschimmel.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:04.860425 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.carmanmoore.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:04.860661 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -19670,6 +19830,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.carmanmoore.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:05.334204 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.carsoncooman.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:05.334444 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -19915,6 +20077,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.carsoncooman.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:05.805061 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.cflmusic.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:05.805519 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -20160,6 +20324,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.cflmusic.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:06.256594 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.churchmuse.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:06.256813 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -20369,6 +20535,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.churchmuse.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:06.691856 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.claramaida.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:06.692107 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -20614,6 +20782,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.claramaida.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:07.200556 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.conradcummings.com&show=ArchivedPages
 D, [2014-10-02T13:24:07.200809 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -20859,6 +21029,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.conradcummings.com"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:07.649725 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.danielroumain.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:07.649975 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -21104,6 +21276,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.danielroumain.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:08.122849 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.daronhagen.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:08.123051 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -21383,6 +21557,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.daronhagen.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:08.663161 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.davidevanthomas.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:08.663481 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -21662,6 +21838,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.davidevanthomas.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:09.138795 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.davidsmooke.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:09.139026 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -21941,6 +22119,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.davidsmooke.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:09.587679 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.dbdoty.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:09.587904 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -22186,6 +22366,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.dbdoty.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:10.075199 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.douglasboyce.net%2F&show=ArchivedPages
 D, [2014-10-02T13:24:10.075433 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -22395,6 +22577,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.douglasboyce.net/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:10.530234 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.douglasjcuomo.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:10.530452 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -22640,6 +22824,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.douglasjcuomo.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:11.033913 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.ericmoe.net%2F&show=ArchivedPages
 D, [2014-10-02T13:24:11.034166 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -22885,6 +23071,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.ericmoe.net/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:11.510341 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.ericnathanmusic.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:11.510554 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -23164,6 +23352,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.ericnathanmusic.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:12.006151 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.erlingwold.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:12.006355 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -23443,6 +23633,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.erlingwold.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:12.483074 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.ezrasims.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:12.483288 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -23688,6 +23880,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.ezrasims.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:12.944234 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.francoisrossignol.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:12.944482 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -23933,6 +24127,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.francoisrossignol.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:13.474744 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.gordonbeeferman.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:13.474941 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -24178,6 +24374,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.gordonbeeferman.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:13.973625 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.ingrammarshall.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:13.973826 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -24423,6 +24621,8 @@ transfer-encoding: "chunked"
                          "q" => "http://www.ingrammarshall.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 I, [2014-10-02T13:24:14.439363 #70599]  INFO -- : get https://archive-it.org/collections/4049.json?q=http%3A%2F%2Fwww.jacobyoffeemusic.com%2F&show=ArchivedPages
 D, [2014-10-02T13:24:14.439611 #70599] DEBUG -- request: User-Agent: "Faraday v0.9.0"
@@ -24668,5 +24868,7 @@ transfer-encoding: "chunked"
                          "q" => "http://www.jacobyoffeemusic.com/"
     }
 }
+```
+```
 ------------------------------------------------------------------------------
 ```
