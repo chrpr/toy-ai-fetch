@@ -36,7 +36,7 @@ Initial work on JSON Analysis, using JQ & iPython Notebooks.
 
 ##### Glancing through data in iPython & Pandas
 
-[https://raw.githubusercontent.com/chrpr/toy-ai-fetch/json_analysis/json/analysis/json.analysis.ipynb](https://raw.githubusercontent.com/chrpr/toy-ai-fetch/json_analysis/json/analysis/json.analysis.ipynb)
+[http://nbviewer.ipython.org/github/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/json.analysis.ipynb](http://nbviewer.ipython.org/github/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/json.analysis.ipynb)
 
 
 ##### Summary Findings
