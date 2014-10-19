@@ -1,16 +1,13 @@
-toy-ai-fetch
+JSON Analysis Work
 ============
 
-toy : fetching ArchiveIt json
-
-#### JSON Analysis Info
-
-Initial work on JSON Analysis.
+Initial work on JSON Analysis, using JQ & iPython Notebooks.
 
 ##### Prerequisites:
 
 * jq [http://stedolan.github.io/jq/](http://stedolan.github.io/jq/)
-* JSON data merged into single file, merged.json
+* JSON data merged into single file, merged.json (for JQ)
+* JSON data as single newline delimited json, merged.linedel.json (for iPython Notebook)
 
 ##### Initial Analytics
 
@@ -36,6 +33,10 @@ Initial work on JSON Analysis.
 * Combine these to look just at the "length 2" entity arrays above:
 
         jq 'if .results.entities | length == 2 then reduce .results.entities[].name as $title (""; . + "|" + $title) else null end' merged.json | grep -v  null
+
+##### Glancing through data in iPython & Pandas
+
+[https://raw.githubusercontent.com/chrpr/toy-ai-fetch/json_analysis/json/analysis/json.analysis.ipynb](https://raw.githubusercontent.com/chrpr/toy-ai-fetch/json_analysis/json/analysis/json.analysis.ipynb)
 
 
 ##### Summary Findings
