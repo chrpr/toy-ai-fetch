@@ -39,7 +39,7 @@ Initial work on JSON Analysis, using JQ & iPython Notebooks.
 [http://nbviewer.ipython.org/github/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/json.analysis.ipynb](http://nbviewer.ipython.org/github/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/json.analysis.ipynb)
 
 One of the steps in this notebook outputs an html file showing summary metadata for all 13 entities:
-[http://htmlpreview.github.com/?http://nbviewer.ipython.org/github/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/entities.html](http://htmlpreview.github.com/?http://nbviewer.ipython.org/github/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/entities.html)
+[http://htmlpreview.github.com/?https://github.com/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/entities.html](http://htmlpreview.github.com/?https://github.com/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/entities.html)
 
 ##### Summary Findings
 
