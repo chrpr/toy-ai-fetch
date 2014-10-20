@@ -38,14 +38,23 @@ Initial work on JSON Analysis, using JQ & iPython Notebooks.
 
 [http://nbviewer.ipython.org/github/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/json.analysis.ipynb](http://nbviewer.ipython.org/github/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/json.analysis.ipynb)
 
+One of the steps in this notebook outputs an html file showing summary metadata for all 13 entities:
+[http://htmlpreview.github.com/?http://nbviewer.ipython.org/github/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/entities.html](http://htmlpreview.github.com/?http://nbviewer.ipython.org/github/chrpr/toy-ai-fetch/blob/json_analysis/json/analysis/entities.html)
 
 ##### Summary Findings
+
+* There are 100 "records" here, but 13 of them have no entities
+* 17 have 2 entities
+* These extra entities tend to be YouTube URL's that are associated with the author's website
+* If we were to dig deeper, we'd also get sub-pages, but we (probably) don't want that
+* 3 of the 104 entities, don't have titles.
+    * 2 of those 3 also don't have titles in the Web Page's themselves.
 
 ##### Questions for Product Owners
 
 * What do we want to do with entity-level resources with no "entity" data?
 * How do we want to treat data that has multiple seeds? 
-    * I think this requires us to sit down with the IA UI & see what the intent was?
+* I think both questions require us to sit down with the IA UI & see what the intent was?
 
 
 
